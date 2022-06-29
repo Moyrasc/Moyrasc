@@ -1,12 +1,12 @@
-Hi 👋 My name is Noe Sola
+Hola 👋 Soy Noe Sola. Bienvenido a mi perfil !!!
 =========================
 
 In progress...
 --------------
 
-* 🌍  I'm based in Spain
-* 🧠  I'm learning full stack developer in 4Geeks Academy
-* ⚡  So never stop learning!
+* 🌍  Vivo en España
+* 🧠  Estoy estudiando para convertirme en Full Stack Developer en 4Geeks 
+* ⚡  Una frase con la que me identifico es ¡Nunca dejes de aprender!
 
 <a href="https://www.github.com/Moyrasc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Moyrasc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
