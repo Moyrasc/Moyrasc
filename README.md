@@ -8,7 +8,6 @@ Hola 👋 Soy Noe Sola. Bienvenido a mi perfil !!!
 In progress...
 --------------
 
-<br clear="both">
 
 * 🧠 Soy una persona de mente inquieta, curiosa y autodidacta.
     Me adapto bien a los cambios, muy resolutiva y trabajo perfectamente tanto en equipo como sola.
