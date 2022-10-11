@@ -3,14 +3,23 @@ Hola 👋 Soy Noe Sola. Bienvenido a mi perfil !!!
 
 <img src="https://i.redd.it/i032d91obzk81.gif"/>
 
+<br clear="both">
+
 In progress...
 --------------
 
-* 🌍  Vivo en España
-* 🧠  Estoy estudiando para convertirme en Full Stack Developer en 4Geeks 
+<br clear="both">
+
+* 🧠 Soy una persona de mente inquieta, curiosa y autodidacta.
+    Me adapto bien a los cambios, muy resolutiva y trabajo perfectamente tanto en equipo como sola.
+    Estoy empezando en el mundo de la programación y sé que queda mucho camino por delante, pero con ganas, actitud y esfuerzo llegaré donde me proponga.
+    ¿Me dejas demostrártelo?
+
+* 💻 Full Stack Developer Jr.
+
 * ⚡  Una frase con la que me identifico es ¡Nunca dejes de aprender!
 
-
+<br clear="both">
 
 ### Skills
 
@@ -28,21 +37,27 @@ In progress...
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="36" height="36"/> </a>
 </p>
 
+<br clear="both">
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Moyrasc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/noe-sola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+<br clear="both"> 
 
 ### Badges
+###
+###
 
-<b>My GitHub Stats</b>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&username=moyrasc" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&username=moyrasc" height="150" alt="languages graph"  />
+</div>
 
-<a href="http://www.github.com/Moyrasc"><img src="https://github-readme-stats.vercel.app/api?username=Moyrasc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Moyrasc's GitHub stats" /></a>
+###
 
-<a href="http://www.github.com/Moyrasc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Moyrasc&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br clear="both">
 
-<a href="https://github.com/Moyrasc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyrasc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=moyrasc.moyrasc&left_color=darkslateblue"  />
 
-<a href="https://www.github.com/Moyrasc" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Moyrasc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+###
