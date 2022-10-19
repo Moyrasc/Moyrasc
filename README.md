@@ -1,22 +1,20 @@
-Hola 👋 Soy Noe Sola. Bienvenido a mi perfil !!!
+Hola 👋 Soy Noe. Bienvenido a mi perfil !!!
 =========================
 
 <img src="https://i.redd.it/i032d91obzk81.gif"/>
 
 <br clear="both">
 
-In progress...
+En progreso...
 --------------
 
 
 * 🧠 Soy una persona de mente inquieta, curiosa y autodidacta.
-    Me adapto bien a los cambios, muy resolutiva y trabajo perfectamente tanto en equipo como sola.
-    Estoy empezando en el mundo de la programación y sé que queda mucho camino por delante, pero con ganas, actitud y esfuerzo llegaré donde me proponga.
-    ¿Me dejas demostrártelo?
+    Me adapto bien a los cambios, muy resolutiva y trabajo perfectamente tanto en equipo como sola. Siempre en busca de nuevos retos y proyectos.
 
 * 💻 Full Stack Developer Jr. actualmente estudiando Java y Node js.
 
-* ⚡  Una frase con la que me identifico es ¡Nunca dejes de aprender!
+* ⚡  Friki de los videojuegos y amante de los animales 🐶 🎮
 
 <br clear="both">
 
