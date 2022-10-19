@@ -14,7 +14,7 @@ In progress...
     Estoy empezando en el mundo de la programación y sé que queda mucho camino por delante, pero con ganas, actitud y esfuerzo llegaré donde me proponga.
     ¿Me dejas demostrártelo?
 
-* 💻 Full Stack Developer Jr.
+* 💻 Full Stack Developer Jr. actualmente estudiando Java y Node js.
 
 * ⚡  Una frase con la que me identifico es ¡Nunca dejes de aprender!
 
