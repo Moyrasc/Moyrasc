@@ -66,4 +66,3 @@ En progreso...
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=moyrasc.moyrasc&left_color=darkslateblue"  />
 
-###
