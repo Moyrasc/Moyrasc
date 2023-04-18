@@ -12,7 +12,7 @@ En progreso...
 * 🧠 Soy una persona de mente inquieta, curiosa y autodidacta.
     Me adapto bien a los cambios, muy resolutiva y trabajo perfectamente tanto en equipo como sola. Siempre en busca de nuevos retos y proyectos.
 
-* 💻 Full Stack Developer Jr. actualmente estudiando  PHP, Laravel y Node js.
+* 💻 Full Stack Developer Jr. actualmente estudiando  Java y Spring Boot.
 
 * ⚡  Friki de los videojuegos y amante de los animales 🐶 🎮
 
