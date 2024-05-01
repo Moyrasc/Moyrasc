@@ -1,17 +1,15 @@
 Hola 👋 Soy Noe. Bienvenido a mi perfil !!!
 =========================
 
-<img src="https://i.redd.it/i032d91obzk81.gif"/>
+![Portada](https://i.redd.it/i032d91obzk81.gif)
 
-<br clear="both">
-
-En progreso...
+En progreso
 --------------
 
 * 🧠 Soy una persona de mente inquieta, curiosa y autodidacta.
     Me adapto bien a los cambios, muy resolutiva y trabajo perfectamente tanto en equipo como sola. Siempre en busca de nuevos retos y proyectos.
 
-* 💻 Full Stack Developer Jr. actualmente estudiando ciberseguridad defensiva ( Blue Team).
+* 💻 Full Stack Developer Jr. actualmente estudiando ciberseguridad.
 
 * ⚡  Friki de los videojuegos y amante de los animales 🐶 🎮
 
@@ -27,16 +25,16 @@ En progreso...
 ![Styled-Component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Back-End:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Flask](	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
