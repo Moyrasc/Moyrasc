@@ -1,25 +1,24 @@
 Hola 👋 Soy Noe. Bienvenido a mi perfil !!!
 =========================
 
-<img src="https://www.reddit.com/r/PixelArt/comments/t5150f/sleepless_night_8_colors/#lightbox"/>
+<img src="https://i.redd.it/i032d91obzk81.gif"/>
 
 <br clear="both">
 
 En progreso...
 --------------
 
-
 * 🧠 Soy una persona de mente inquieta, curiosa y autodidacta.
     Me adapto bien a los cambios, muy resolutiva y trabajo perfectamente tanto en equipo como sola. Siempre en busca de nuevos retos y proyectos.
 
-* 💻 Full Stack Developer Jr. actualmente estudiando  Java y Spring Boot.
+* 💻 Full Stack Developer Jr. actualmente estudiando ciberseguridad defensiva ( Blue Team).
 
 * ⚡  Friki de los videojuegos y amante de los animales 🐶 🎮
 
 <br clear="both">
 
 ## Skills
- ### Front-End:
+### Front-End:
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,6 +41,7 @@ En progreso...
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring-Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
 ### Testing:
 
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
@@ -83,4 +83,3 @@ En progreso...
 <br clear="both">
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=moyrasc.moyrasc&left_color=darkslateblue"  />
-
